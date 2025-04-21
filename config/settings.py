@@ -87,6 +87,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # CORS settings
 CORS_ALLOWED_ORIGINS = [
     "http://10.3.113.49:8080",  # React development server
+    "http://localhost:8080",
 ]
 
 # REST Framework settings
